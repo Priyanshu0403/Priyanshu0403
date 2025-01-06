@@ -45,19 +45,26 @@ Welcome to my GitHub profile! 🚀 I'm a passionate [Your Profession/Title] who 
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects
 
 ### **Featured Projects**
-- [Project 1 Name](https://github.com/YourGitHubUsername/Project1): *Brief description of the project.*
-- [Project 2 Name](https://github.com/YourGitHubUsername/Project2): *Brief description of the project.*
+- [Chat Application](https://github.com/YourGitHubUsername/Project1): * Developed a real-time chat application using Java, Socket Programming, and Multithreading.
+
+Designed a graphical user interface (GUI) with Swing for an intuitive user experience.
+Implemented network communication to enable messaging both locally and across multiple systems.
+Utilized multithreading for handling concurrent user connections seamlessly.
+*
+- [Shopping List App]https://github.com/YourGitHubUsername/Project2): *Developed an interactive shopping list app using Kotlin and Jetpack Compose.
+
+Designed a clean, user-friendly interface with modern UI components.
+Implemented features to add, edit, and delete items dynamically using Mutable State for state management.
+Leveraged Jetpack Compose for declarative UI design, ensuring smooth and responsive user interactions. *
+- [Amazon Web Clone](https://github.com/YourGitHubUsername/Project2): *
+Developed a static clone of the Amazon website homepage using HTML and CSS.
+
+Replicated the design of key sections such as the header, product showcase, and footer.
+Focused on clean code and responsive design principles to ensure a visually accurate layout.
+Demonstrated strong attention to detail and front-end development skills.*
 
 ### **Open Source Contributions**
 - [Repository Name](https://github.com/ContributorRepo): *Description of your contribution.*
