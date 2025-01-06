@@ -5,4 +5,6 @@
                            LinkedIn Url- https://www.linkedin.com/in/priyanshu-sarvaiyya-577457333/
 - ⚡ My hobby is to code on daily basis, play football, badminton, sketch, Dance and go on a trek frequently
 
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
