@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate Java Developer who loves cod
 ## 🌟 About Me
 
 - 🔭 I’m currently working on: **Students Management Project Based on JDBC and Servlets**
-- 🌱 I’m currently learning: **Advance Java and BootStrap**
+- 🌱 I’m currently learning: **Advance Java, Javascript and BootStrap**
 - 👯 I’m looking to collaborate on: **Java Based Projects  **
 - 💬 Ask me about: ** Java, HTML, CSS, SQL, JDBC**
 - ⚡ Hobbies:**Sketching , Playing Football, Badminton, Dancing and Trekking**
