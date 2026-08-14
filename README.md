@@ -1,59 +1,178 @@
+<div align="center">
+
 # Hi, I'm Priyanshu Sarvaiyya 👋
 
-I'm a Full-Stack Developer who builds practical, end-to-end web applications — the kind people actually open and use, not just demos. My work spans job portals, personal-finance tools, and gig-economy platforms, usually with a React frontend backed by a Node.js/Express or Java API and a relational database.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4F8CFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+Java;Currently+Building+SkillBridge)](https://github.com/Priyanshu0403)
 
-## What I Build — and Who It's For
+</div>
 
-- **Job seekers & recruiters** — [HIREX](https://github.com/Priyanshu0403/Hirex-Job-Portal), a role-based job portal with real-time listings, logo uploads, and secure authentication
-- **Freelancers & gig workers** — [SkillBridge](https://github.com/Priyanshu0403/Skill-Bridge), a peer-to-peer platform for posting, applying to, and managing gigs, with real-time chat and credit-based workflows
-- **People managing personal finances** — [ExpenseTracker](https://github.com/Priyanshu0403/ExpenseTracker), a dashboard for tracking income, expenses, and cash flow across accounts
-- **Small business owners** — [Jewellery Business Billing System](https://github.com/Priyanshu0403/Jewellery-Shop-Billing-Application), handling customer purchases, loans, and invoicing through an admin dashboard
+I build complete, working web applications — frontend, backend, database, and auth all wired together — not just UI mockups. Final-year Computer Engineering student focused on full-stack web development, currently building **SkillBridge**.
 
-I care most about clean UX, secure authentication done right, and APIs that are genuinely pleasant to work with.
+---
+
+## About Me
+
+- 💻 I build full-stack apps end-to-end — React on the frontend, Node.js/Express or Java on the backend, PostgreSQL or MySQL underneath
+- 🧩 I gravitate toward projects with real workflows: authentication, role-based access, dashboards, and data that actually needs structuring
+- 🛠️ Comfortable across two backend worlds — modern JS (Node.js/Express) and traditional Java (JSP/Servlets/JDBC) — from a Java Web Developer internship and self-driven projects
+- 📈 Currently sharpening backend architecture and system-design fundamentals
+
+## 🚀 Currently Building
+
+**[SkillBridge](https://github.com/Priyanshu0403/Skill-Bridge)** — a peer-to-peer campus gig and skill-exchange platform with real-time chat, notifications, and credit-based workflows.
+
+## 🌱 Currently Learning
+
+Spring Boot · Backend architecture & system design · Cloud deployment
+
+---
 
 ## Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Languages: JavaScript, Java, Python](https://skillicons.dev/icons?i=js,java,py)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Frontend: React, HTML, CSS, Tailwind CSS, Bootstrap](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-B07219?style=for-the-badge)
-![Servlets](https://img.shields.io/badge/Servlets-B07219?style=for-the-badge)
+![Backend: Node.js, Express, Spring](https://skillicons.dev/icons?i=nodejs,express,spring)
+<br/><sub>Also building with JSP, Servlets, JDBC, and REST APIs</sub>
 
-**Databases**
+**Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Database: PostgreSQL, MySQL, Supabase](https://skillicons.dev/icons?i=postgres,mysql,supabase)
 
-**Auth & Security**
+**Authentication**
 
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Authentication: Firebase](https://skillicons.dev/icons?i=firebase)
+<br/><sub>Also using Clerk and JWT</sub>
 
-**Cloud & Tools**
+**Tools & DevOps**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tools: Git, GitHub, Postman, Docker, Azure, GitHub Actions, Figma](https://skillicons.dev/icons?i=git,github,postman,docker,azure,githubactions,figma)
 
-## Let's Connect
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshusarvaiyya@gmail.com)
+## 💻 Featured Projects
+
+### SkillBridge
+Peer-to-peer campus gig and skill-exchange platform for students to post, apply to, and manage gigs.
+
+**Tech Stack:** ![React, Node.js, Express, Supabase](https://skillicons.dev/icons?i=react,nodejs,express,supabase)
+
+**Highlights:**
+- Gig posting and applications with assignment management
+- Real-time chat and notifications
+- Credit-based barter and paid-work workflows
+- Secure authentication
+
+**Links:** [GitHub](https://github.com/Priyanshu0403/Skill-Bridge)
+
+---
+
+### ExpenseTracker
+Full-stack personal finance app for tracking income, expenses, and cash flow.
+
+**Tech Stack:** ![React, Node.js, Express, PostgreSQL, Firebase, Postman](https://skillicons.dev/icons?i=react,nodejs,express,postgres,firebase,postman)
+
+**Highlights:**
+- Income/expense tracking with categories and account transfers
+- Dynamic dashboards and cash-flow reports
+- Firebase authentication
+
+**Links:** [GitHub](https://github.com/Priyanshu0403/ExpenseTracker)
+
+---
+
+### HIREX — Job Portal
+Full-stack job portal for job seekers and recruiters with role-based access and real-time listings.
+
+**Tech Stack:** ![React, PostgreSQL, Supabase, Tailwind CSS, Postman](https://skillicons.dev/icons?i=react,postgres,supabase,tailwind,postman)
+
+**Highlights:**
+- Role-based access with secure authentication (Clerk)
+- Job posting, applications, and location-based filtering
+- Company logo uploads and markdown job descriptions
+
+**Links:** [GitHub](https://github.com/Priyanshu0403/Hirex-Job-Portal) · [Live Demo](https://hirex-job-finder-lyart-zeta.vercel.app/jobs)
+
+---
+
+### Jewellery Business Billing System
+Business management and billing app for handling customer purchases, loans, and invoicing.
+
+**Tech Stack:** ![Java, MySQL, Bootstrap](https://skillicons.dev/icons?i=java,mysql,bootstrap)
+
+**Highlights:**
+- Customer purchase and loan management
+- Income/expense tracking
+- Invoice generation through an admin dashboard
+
+**Links:** [GitHub](https://github.com/Priyanshu0403/Jewellery-Shop-Billing-Application)
+
+---
+
+## 📸 Project Screenshots
+
+### SkillBridge
+<!-- Screenshot will be added here -->
+
+### ExpenseTracker
+<!-- Screenshot will be added here -->
+
+### HIREX
+<!-- Screenshot will be added here -->
+
+### Jewellery Business Billing System
+<!-- Screenshot will be added here -->
+
+---
+
+## What I Care About
+
+- Clean, usable UI over flashy but confusing design
+- Authentication and access control done properly, not bolted on
+- APIs that make sense to whoever has to work with them next
+- Database schemas that don't fall apart when requirements change
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Priyanshu0403&show_icons=true&theme=dark&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Priyanshu0403&show_icons=true&theme=default&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu0403&show_icons=true&theme=default&hide_border=true" alt="Priyanshu's GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0403&layout=compact&theme=dark&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0403&layout=compact&theme=default&hide_border=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu0403&layout=compact&theme=default&hide_border=true" alt="Priyanshu's most used languages" />
+</picture>
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:priyanshusarvaiyya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-sarvaiyya-577457333/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/Priyanshu0403"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+
+<!-- Portfolio link: add here once available -->
+
+---
+
+<div align="center">
+<sub>Thanks for stopping by — my pinned repos below are the best place to see the code behind these projects.</sub>
+</div>
