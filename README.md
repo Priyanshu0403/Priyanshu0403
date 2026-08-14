@@ -6,7 +6,7 @@
 
 </div>
 
-I build complete, working web applications — frontend, backend, database, and auth all wired together — not just UI mockups. Final-year Computer Engineering student focused on full-stack web development, currently building **SkillBridge**.
+I build complete, working web applications — frontend, backend, database, and auth all wired together — not just UI mockups. Computer Engineering graduate focused on full-stack web development, currently building **Resume Builder**.
 
 ---
 
@@ -19,7 +19,7 @@ I build complete, working web applications — frontend, backend, database, and 
 
 ## 🚀 Currently Building
 
-**[SkillBridge](https://github.com/Priyanshu0403/Skill-Bridge)** — a peer-to-peer campus gig and skill-exchange platform with real-time chat, notifications, and credit-based workflows.
+**[Resume Builder](https://github.com/Priyanshu0403/Resume-Builder)** — abuilding a full-stack Resume Builder application that allows users to create and manage professional resumes through a structured web interface.
 
 ## 🌱 Currently Learning
 
@@ -164,7 +164,7 @@ Business management and billing app for handling customer purchases, loans, and 
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:priyanshusarvaiyya@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="[mailto:priyanshusarvaiyya@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=priyanshusarvaiyya@gmail.com&tf=cm)"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-sarvaiyya-577457333/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/Priyanshu0403"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
