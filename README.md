@@ -19,7 +19,7 @@ I build complete, working web applications — frontend, backend, database, and 
 
 ## 🚀 Currently Building
 
-**[Resume Builder](https://github.com/Priyanshu0403/Resume-Builder)** — abuilding a full-stack Resume Builder application that allows users to create and manage professional resumes through a structured web interface.
+**[Resume Builder](https://github.com/Priyanshu0403/Resume-Builder)** — Building a full-stack Resume Builder application that allows users to create and manage professional resumes through a structured web interface.
 
 ## 🌱 Currently Learning
 
